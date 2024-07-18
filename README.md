@@ -96,6 +96,48 @@ feature-extraction/
 │
 └── README.md
 ```
+## Flowchart
+
+```mermaid
+    graph TD
+    A[Data Collection] --> B[Data Preprocessing]
+    B --> C[Feature Engineering]
+    C --> D[Image Segmentation]
+    D --> E[ML Model Development]
+    E --> F[Feature-Specific Algorithms]
+    F --> G[Multi-temporal Analysis]
+    G --> H[Model Integration & Ensemble]
+    H --> I[Contextual Refinement]
+    I --> J[Validation & Accuracy Assessment]
+    J --> K[Model Optimization]
+    K --> L[Deployment & Scaling]
+    L --> M[Continuous Improvement]
+
+    B -.-> N[Atmospheric Correction]
+    B -.-> O[Radiometric Calibration]
+    B -.-> P[Orthorectification]
+
+    C -.-> Q[NDVI Calculation]
+    C -.-> R[Texture Analysis]
+    C -.-> S[Edge Detection]
+
+    E -.-> T[CNNs]
+    E -.-> U[SVMs]
+    E -.-> V[Random Forests]
+
+    F -.-> W[High Tension Towers]
+    F -.-> X[Windmills]
+    F -.-> Y[Electric Substations]
+    F -.-> Z[Brick Kilns]
+    F -.-> AA[Farmbunds]
+
+    L -.-> AB[Cloud Deployment]
+    L -.-> AC[Edge Computing]
+
+    M -.-> AD[Active Learning]
+    M -.-> AE[User Feedback]
+```
+
 
 ## Installation
 
