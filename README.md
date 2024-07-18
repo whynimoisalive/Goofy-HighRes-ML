@@ -1,2 +1,2 @@
 # Goofy-HighRes-ML
-![[doog.jpg]]
+![doog](./resources/doog.jpg)
