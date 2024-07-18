@@ -113,7 +113,7 @@ Our solution addresses the challenge of extracting diverse infrastructure featur
 
 ## Wireframes/Mock Diagrams of the Proposed Solution (optional)
 
-[Wireframe Diagram: Main Dashboard](./goofywebpage%20.pdf)
+[Wireframe Diagram: Main Dashboard](goofywebpage.pdf)
 
 
 ## Solution Brief (Overall)
