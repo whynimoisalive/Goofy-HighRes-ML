@@ -129,7 +129,7 @@ feature-extraction/
     F -.-> X[Windmills]
     F -.-> Y[Electric Substations]
     F -.-> Z[Brick Kilns]
-    F -.-> AA[Farmbunds]
+    F -.-> AA[Etc/Many more]
 
     L -.-> AB[Cloud Deployment]
     L -.-> AC[Edge Computing]
