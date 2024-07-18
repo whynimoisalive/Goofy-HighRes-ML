@@ -16,7 +16,7 @@ This project aims to develop an advanced feature extraction system for high-reso
 4. [Key Technologies](#key-technologies)
 5. [Project Structure](#project-structure)
 6. [Installation](#installation)
-7. [Usage](#usage)
+7. [Flowchart](#Flowchart)
 8. [Contributing](#contributing)
 9. [License](#license)
 
