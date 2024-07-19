@@ -1,4 +1,3 @@
-Here are some resources and links for each of the feature engineering tasks you mentioned:
 
 ### 1. Calculate Vegetation Indices (e.g., NDVI)
 
@@ -78,6 +77,7 @@ Here are some resources and links for each of the feature engineering tasks you 
 - "DEM-Based Feature Extraction" - [Link](https://www.sciencedirect.com/science/article/abs/pii/S0098300413000195)
 - "Slope and Aspect Calculation Methods" - [Link](https://www.sciencedirect.com/science/article/abs/pii/S0034425703001037)
 
+---
 Here are some GitHub repositories related to feature engineering that you might find helpful:
 - [Icicle Streaming Query Language](https://github.com/icicle-lang/icicle): Includes machine learning, event-sourcing, and feature engineering.
 - [Volga](https://github.com/volga-project/volga): A feature engine for real-time AI/ML data streaming.
