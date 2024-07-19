@@ -1,4 +1,3 @@
-Here are some resources, documentation, Git repositories, and research papers related to segmentation tasks:
 
 ### Multi-Resolution Segmentation
 - Multi-resolution segmentation aims to create object primitives by grouping pixels or regions based on their similarity. It's commonly used in remote sensing and computer vision. While I don't have a specific research paper to cite, you can find relevant discussions and implementations in various GitHub repositories and online resources.
