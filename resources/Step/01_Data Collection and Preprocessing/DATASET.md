@@ -1,7 +1,7 @@
 
   <h2>Datasets for deep learning applied to satellite and aerial imagery.</h2>
 
-# 👉 [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) 👈
+
 
 </div>
 
