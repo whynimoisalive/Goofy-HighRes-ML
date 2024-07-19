@@ -1,5 +1,3 @@
-Here are some resources, documentation, Git repositories, and research papers related to the topics you're interested in:
-
 1. **Atmospheric Correction:**
     - Atmospheric correction is crucial for removing atmospheric effects (such as scattering and absorption) from remote sensing images. It ensures that the observed radiance values are consistent and comparable across different images.
 
@@ -33,7 +31,7 @@ Here are some resources, documentation, Git repositories, and research papers re
    - SCI-HUB + ieexplore: Search for specific research papers on topics like "atmospheric correction," "radiometric calibration," etc.: [IEEE Xplore](https://ieeexplore.ieee.org/)
 
 
-
+---
 Source: Conversation with Copilot, 19/7/2024
 (1) Remote Sensing Data Preprocessing Technology | SpringerLink. https://link.springer.com/chapter/10.1007/978-981-99-0703-8_2.
 (2) Processing and Applications of Remotely Sensed Data. https://link.springer.com/referenceworkentry/10.1007/978-3-319-23386-4_92.
