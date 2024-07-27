@@ -4,11 +4,11 @@
 # Feature Extraction from Remote Sensing High Resolution Data using AI/ML
 ##Team Members:
 Name of College: IIT Madras,KGEC,Modern-College-Pune
-Team Member details:
-1.Nimish Shinde
-2.Arka Dash
-3.Subhajit
-4.Ruchir Kalokhe
+## Team Member details:
+    1.Nimish Shinde
+    2.Arka Dash
+    3.Subhajit
+    4.Ruchir Kalokhe
 
 ## Project Overview
 
